@@ -1,0 +1,23 @@
+.About-us {
+    width: 100%;
+    text-align: center;
+    background-color: wheat;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 20px;
+}
+
+h1 {
+    color: #000;
+    font-size: 35px;
+}
+
+img {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+
+p {
+    font-size: 20px;
+}
