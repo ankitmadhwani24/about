@@ -6,7 +6,6 @@ phases:
       - npm install
   build:
     commands:
-      - aws s3 rm s3://single-spa-about/ --recursive
       - npm run build
 
 artifacts:
